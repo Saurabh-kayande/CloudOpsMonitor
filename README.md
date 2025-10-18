@@ -1,9 +1,1 @@
-# CloudOpsMonitor
-
-**Cloud-native three-tier infrastructure monitoring and alert system** built with Flask, Python, and AWS.
-
-Features:
-- Real-time monitoring of server metrics
-- Automated alerts via AWS SNS
-- Interactive frontend dashboard
-- PostgreSQL/RDS database integration
+CloudOpsMonitor is a cloud-based monitoring system that helps businesses keep an eye on their servers, track performance, and get instant alerts if something goes wrong. Built with Python, Flask, and AWS, it’s designed to show how a real-world, enterprise-level monitoring platform works — practical, easy to use, and cloud-ready.
